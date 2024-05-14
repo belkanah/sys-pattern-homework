@@ -42,9 +42,10 @@
 ```
 Поле для вставки кода...
 [359b89fa4800cfb8997ac47cf7fa52be4737e585](https://github.com/belkanah/fops32githw/tree/359b89fa4800cfb8997ac47cf7fa52be4737e585)
-
+```
 
 ---
+
 
 ### Задание 2
 
