@@ -58,7 +58,7 @@
 
 ### Решение 2
 
-[7dc03e5aff6b0cac1110bb6cfab40c87db11e742](https://github.com/belkanah/fops32githw/tree/7dc03e5aff6b0cac1110bb6cfab40c87db11e742)
+[b56725d5ac35bb0c36df2eb8708b83de015cd0c1](https://github.com/belkanah/fops32githw/commit/b56725d5ac35bb0c36df2eb8708b83de015cd0c1)
 
 ---
 
